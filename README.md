@@ -3,7 +3,7 @@ Through <a href="https://tradefeeds.com/technical-indicators-data-api/" rel="nof
 
 Instead of searching for data yourself or maintaining an in-house database, you can request access to Tradefeeds Technical Indicators API database. You can find accurate data on technical indicators that contributes to inveting or trading decisions on stocks. Our customers are diverse including developers who build their applications for a specific audience, in-house teams in all-sized companies and entrepeneurial individuals. The data is retrieved through fast and seamless JSON REST API or in downloadable excel or csv files. 
 
-Tradefeeds subscription packages are developed in such a way to serve all customers' needs. For the moment, there is no free trial provided. In case that you are a researcher or a student, we could negotiate a free trial. <a href="https://tradefeeds.com/api-documentation/" rel="nofollow">Sign up for an API key</a> and we work out your case.
+Tradefeeds subscription packages are developed in such a way to serve all customers' needs. For the moment, there is no free trial provided. In case that you are a researcher or a student, we could negotiate a free trial. <a href="https://tradefeeds.com/pricing-subscription-plans/" rel="nofollow">Sign up for an API key</a> and we work out your case.
 
 <h2><a id="user-content-api-features" class="anchor" href="https://github.com/Tradefeeds-Financial-data-API/Company-TechnicalIndicators-API#api-features" aria-hidden="true"></a>API Features</h2>
 
