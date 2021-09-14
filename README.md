@@ -41,7 +41,7 @@ Tradefeeds subscription packages are developed in such a way to serve all custom
 
 <h2>Documentation</h2>
 
-Our <a href="https://tradefeeds.com/api-documentation/" rel="nofollow"> Sign up for an API key</a> includes input API filtering parameters, output response objects with explanation of their meaning. Clear request and response examples are given on the documentation page. Furthermore, we provide SDKs for Javascript, JQuery, VueJS, Angular, JAVA, PHP, NodeJS, Python, Go, Ruby, C#, R, Strest, Rust, Swift and Scala
+Our <a href="https://tradefeeds.com/api-documentation/" rel="nofollow"> documentation</a> includes input API filtering parameters, output response objects with explanation of their meaning. Clear request and response examples are given on the documentation page. Furthermore, we provide SDKs for Javascript, JQuery, VueJS, Angular, JAVA, PHP, NodeJS, Python, Go, Ruby, C#, R, Strest, Rust, Swift and Scala
 
 <h2>Request and response examples</h2>
 
