@@ -45,7 +45,101 @@ Our <a href="https://tradefeeds.com/api-documentation/" rel="nofollow"> documen
 
 <h2>Request and response examples</h2>
 
--- problem 
+
+<p><strong>RSI</strong><p>
+<p><a href="https://tradefeeds.com/api-documentation">https://tradefeeds.com/api/v1/technicalindicators?key=YOUR-KEY&stock_ticker_symbol=aapl&technical_indicator=relative_strength_index</a></p>
+
+
+
+    "status": {
+        "message": "Success"
+    },
+    "results": [
+        {
+        "basics": {
+            "name": "Apple Inc",
+            "stock_ticker_symbol": "AAPL"
+            "isin_identifier": "US0378331005"
+            "exchange": "nasdaq"
+            },
+
+        "output": {
+            "value": 70.03713323772295,
+            "backtrack": 0
+            },
+            {
+            "value": 68.55107952179476,
+            "backtrack": 1
+            },
+            {
+            "value": 72.55100476679559,
+            "backtrack": 2
+            },
+            {
+            "value": 73.51409814264913,
+            "backtrack": 3
+            },
+            {
+            "value": 69.91451308499144,
+            "backtrack": 4
+            },
+            {
+            "value": 65.17308969691057,
+            "backtrack": 5
+            },
+            {
+            "value": 66.17910755701931,
+            "backtrack": 6
+            },
+            {
+            "value": 68.41845715627683,
+            "backtrack": 7
+            },
+            {
+            "value": 64.71596338703083,
+            "backtrack": 8
+            },
+            {
+            "value": 70.76586249275925,
+            "backtrack": 9
+            }
+            },
+        }
+    [
+
+
+
+<p><strong>Stalled Pattern</strong><p>
+<p><a href="https://tradefeeds.com/api-documentation">https://tradefeeds.com/api/v1/technicalindicators?key=YOUR-KEY&stock_ticker_symbol=aapl&technical_indicator=stalled_pattern</a></p>
+
+
+
+    "status": {
+        "message": "Success"
+    },
+    "results": [
+        {
+        "basics": {
+            "name": "Apple Inc",
+            "stock_ticker_symbol": "AAPL"
+            "isin_identifier": "US0378331005"
+            "exchange": "nasdaq"
+            },
+
+        "output": {
+            {
+            value: "100" // stalled_pattern pattern found at this candle
+            }
+
+            {
+            value: "0" // stalled_pattern pattern NOT found at this candle
+            }
+            },
+        }
+    [
+
+
+
 
 <h2>Customer support</h2>
 
